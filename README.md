@@ -11,9 +11,10 @@
 - [Sample Outputs](#sample-outputs)
 - [Evaluation Metrics](#evaluation-metrics)
 - [Future Enhancements](#future-enhancements)
-- [Team Members](#team-members)
-- [Mentor](#mentor)
-- [Acknowledgment](#acknowledgment)
+- [Team Members](#team-members-amrita-school-of-computing-bengaluru)
+- [Mentor](#-mentor)
+- [Acknowledgment](#-acknowledgment)
+
 
 ## Overview
 This project presents an innovative Smart Adaptive Seating Allocation System for urban transit that enhances passenger comfort and safety. Leveraging priority queue algorithms, the system dynamically assigns seats based on passenger needs including age, pregnancy status, and medical conditions. The Java-based Metro App for Bangalore Metro combines advanced graph algorithms for route optimization with intelligent seating allocation, handling both Purple and Green metro lines with seamless interchange management and health-conscious arrangements.
