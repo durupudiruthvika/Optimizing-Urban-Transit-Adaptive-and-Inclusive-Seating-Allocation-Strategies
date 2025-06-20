@@ -152,7 +152,7 @@ Visual seat map with allocated positions displayed
 
 ## 🙏 Acknowledgment
 
-This project was developed as part of the academic curriculum for the **B.Tech CSE Batch of 2021–2025** under the mentorship of **Dr. Nandu C Nair**, Amrita School of Computing, Amrita Vishwa Vidyapeetham, Bengaluru campus.
+This project was developed as part of the academic curriculum for the **B.Tech CSE Batch of 2022–2026** under the mentorship of **Dr. Nandu C Nair**, Amrita School of Computing, Amrita Vishwa Vidyapeetham, Bengaluru campus.
 
 ---
 
