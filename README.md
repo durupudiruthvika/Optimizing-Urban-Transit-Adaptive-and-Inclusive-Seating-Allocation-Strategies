@@ -11,6 +11,7 @@
 - [Sample Outputs](#sample-outputs)
 - [Evaluation Metrics](#evaluation-metrics)
 - [Future Enhancements](#future-enhancements)
+- [Published Paper](#-published-paper)
 - [Team Members](#team-members-amrita-school-of-computing-bengaluru)
 - [Mentor](#-mentor)
 - [Acknowledgment](#-acknowledgment)
@@ -129,7 +130,23 @@ Visual seat map with allocated positions displayed
 - Multi-language support
 - Web-based user interface
 - Integration with live metro APIs
+## 📄 Published Paper
 
+**Title:** Optimizing Urban Transit: Adaptive and Inclusive Seating Allocation Strategies
+
+**Authors:** Kandibanda Lohith, Mudumala Varnika Narayani, Naga Ruthvika Durupudi, Nunnaguppala Rohit, Nandu C Nair
+
+**Publication:** 2025 IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI)
+
+**Conference Date:** 06-08 March 2025  
+**Conference Location:** Gwalior, India  
+**Publisher:** IEEE
+
+**Abstract:** The evolution of public transportation systems demands innovative approaches to enhance passenger comfort and operational efficiency. Current seating arrangements often overlook the varied needs of passengers, leading to suboptimal experiences. This research introduces an adaptive seating allocation system that leverages advanced data structures, particularly priority queues, to dynamically assign seats based on criteria such as age, pregnancy status, and health conditions. This prioritization aims to ensure that vulnerable passengers, including the elderly and those with medical needs, are seated in optimal locations to maximize safety and comfort. The proposed system also incorporates secondary considerations, such as proximity to exits for quick disembarkation, improved ventilation for respiratory comfort, and minimizing exposure to potential health risks. Realtime sensor data and feedback mechanisms facilitate continuous adjustments to seating configurations, accommodating shifts in passenger demographics throughout the day. This adaptive strategy promotes crowd management and overall system efficiency while fostering a more inclusive travel experience. The integration of these adaptive seating solutions addresses common challenges in urban transit, contributing to higher passenger satisfaction and a more effective public transportation system. By prioritizing individual needs and safety, these enhancements represent a critical step toward a modern, user-centered approach to urban mobility.
+
+**DOI:** [10.1109/IATMSI64286.2025.10984445](https://doi.org/10.1109/IATMSI64286.2025.10984445)
+
+**IEEE Xplore:** [📖 Read Full Paper](https://ieeexplore.ieee.org/document/10984445)
 ## Team Members (Amrita School of Computing, Bengaluru)
 *B.Tech CSE, Batch of 2022–2026*  
 **Amrita School of Computing, Bengaluru**  
@@ -138,8 +155,7 @@ Visual seat map with allocated positions displayed
 - **Naga Ruthvika Durupudi**
 - **Kandibanda Lohith**
 - **Mudumala Varnika Narayani**
--**Nunnaguppala Rohit**
-
+- **Nunnaguppala Rohit**
 ---
 
 ## 🎓 Mentor
